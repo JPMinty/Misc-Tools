@@ -14,3 +14,4 @@ Store the converted policy on a Win10 system to be monitored at: Windows\System3
 More information:
 - https://gist.githubusercontent.com/mattifestation/de140831d47e15370ba35c1877f39082/raw/8db18ab36723cc9eaf9770c2cadafe46460ff80e/3076EventExtractor.ps1
 - https://posts.specterops.io/threat-detection-using-windows-defender-application-control-device-guard-in-audit-mode-602b48cd1c11
+- https://github.com/mattifestation/WDACTools
